@@ -121,7 +121,7 @@ export default function App() {
     const video = e.target;
     if (!video.duration) return;
     const timeLeft = video.duration - video.currentTime;
-    
+
     // Speed Ramp: Play first 2s at normal speed (1.0), then smoothly ramp down to majestic slow-mo (0.28) over 1s
     if (video.currentTime < 2.0) {
       video.playbackRate = 1.0;
@@ -131,7 +131,7 @@ export default function App() {
     } else {
       video.playbackRate = 0.28;
     }
-    
+
     const fadeDuration = 1.5; // 1.5s fade window for slower speed
     const maxOpacity = 0.58; // Lighter/brighter video base opacity
 
@@ -316,7 +316,7 @@ Details:
             className="flex items-center gap-1.5 sm:gap-2 bg-transparent border-0 cursor-pointer focus:outline-none"
           >
             <img src="/media/logo/mlogo2.png" alt="Logo" className="w-8 h-8 sm:w-10 sm:h-10 object-contain" />
-            <span className="font-serif font-bold text-espresso text-lg sm:text-xl tracking-wide hidden xs:inline">MASHRIQ</span>
+            <span className="font-serif font-bold text-espresso text-lg sm:text-xl tracking-wide inline">MASHRIQ</span>
           </button>
 
           {/* Main Navigation Links */}
@@ -405,8 +405,8 @@ Details:
                     setMobileMenuOpen(false);
                   }}
                   className={`w-full py-2 px-4 rounded-xl text-left font-sans font-bold text-xs sm:text-sm transition-all border-0 bg-transparent focus:outline-none ${activePage === link.id
-                      ? 'bg-terracotta/10 text-terracotta'
-                      : 'text-espresso/80 hover:bg-espresso/5'
+                    ? 'bg-terracotta/10 text-terracotta'
+                    : 'text-espresso/80 hover:bg-espresso/5'
                     }`}
                 >
                   {link.label}
@@ -808,8 +808,8 @@ Details:
                     <button
                       onClick={() => handleBrandChange('mashriq')}
                       className={`px-3 sm:px-6 py-1.5 sm:py-3 rounded-full font-serif font-bold text-[11px] sm:text-sm transition-all duration-300 flex items-center gap-1 sm:gap-2 cursor-pointer focus:outline-none ${selectedBrand === 'mashriq'
-                          ? 'bg-espresso text-[#FAF8F5] shadow-md'
-                          : 'text-espresso/60 hover:text-espresso'
+                        ? 'bg-espresso text-[#FAF8F5] shadow-md'
+                        : 'text-espresso/60 hover:text-espresso'
                         }`}
                     >
                       <UtensilsCrossed size={12} className="sm:w-4 sm:h-4" /> Mashriq <span className="hidden xs:inline">Restaurant</span>
@@ -817,8 +817,8 @@ Details:
                     <button
                       onClick={() => handleBrandChange('creme')}
                       className={`px-3 sm:px-6 py-1.5 sm:py-3 rounded-full font-serif font-bold text-[11px] sm:text-sm transition-all duration-300 flex items-center gap-1 sm:gap-2 cursor-pointer focus:outline-none ${selectedBrand === 'creme'
-                          ? 'bg-[#E3DCD3] text-espresso shadow-md border border-espresso/10'
-                          : 'text-espresso/60 hover:text-espresso'
+                        ? 'bg-[#E3DCD3] text-espresso shadow-md border border-espresso/10'
+                        : 'text-espresso/60 hover:text-espresso'
                         }`}
                     >
                       <Coffee size={12} className="sm:w-4 sm:h-4" /> Crème <span className="hidden xs:inline">Café Lounge</span>
@@ -834,8 +834,8 @@ Details:
                         key={cat.id}
                         onClick={() => setSelectedCategory(cat.id)}
                         className={`px-3 sm:px-5 py-1.5 sm:py-2 rounded-full font-sans font-bold text-[10px] sm:text-xs transition-all cursor-pointer focus:outline-none ${selectedCategory === cat.id
-                            ? 'bg-terracotta text-white shadow-sm'
-                            : 'text-espresso/70 hover:text-espresso hover:bg-espresso/5'
+                          ? 'bg-terracotta text-white shadow-sm'
+                          : 'text-espresso/70 hover:text-espresso hover:bg-espresso/5'
                           }`}
                       >
                         {cat.category}
@@ -1069,8 +1069,8 @@ Details:
                         key={cat.id}
                         onClick={() => setLoungeCategory(cat.id)}
                         className={`px-3.5 sm:px-5 py-1.5 sm:py-2 rounded-full font-sans font-bold text-[10px] sm:text-xs transition-all cursor-pointer focus:outline-none ${loungeCategory === cat.id
-                            ? 'bg-espresso text-[#FAF8F5] shadow-sm'
-                            : 'text-espresso/70 hover:text-espresso hover:bg-espresso/5'
+                          ? 'bg-espresso text-[#FAF8F5] shadow-sm'
+                          : 'text-espresso/70 hover:text-espresso hover:bg-espresso/5'
                           }`}
                       >
                         {cat.category}
