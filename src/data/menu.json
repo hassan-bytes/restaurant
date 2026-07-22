@@ -1,0 +1,974 @@
+[
+  {
+    "id": "starters",
+    "brand": "mashriq",
+    "category": "Starters & Appetizers",
+    "items": [
+      {
+        "name": "Hummus Bil Dajaj",
+        "desc": "Creamy hummus topped with Arabic-spiced chicken, olive oil and warm khubz.",
+        "price": 1199,
+        "signature": true,
+        "image": "dish23-Photoroom.png"
+      },
+      {
+        "name": "Chargrilled Fiery Wings",
+        "desc": "Grilled chicken wings finished with a bold house chilli glaze.",
+        "price": 999,
+        "signature": false,
+        "image": "dish4e-Photoroom.png"
+      },
+      {
+        "name": "Crispy Dynamite Chicken",
+        "desc": "Crispy chicken bites tossed in our tangy dynamite sauce.",
+        "price": 1099,
+        "signature": false,
+        "image": "dishe3-Photoroom.png"
+      },
+      {
+        "name": "Buttermilk Chicken Strips",
+        "desc": "Buttermilk-marinated chicken strips fried crisp and served with house made chipotle.",
+        "price": 999,
+        "signature": false,
+        "image": "dishes-Photoroom.png"
+      },
+      {
+        "name": "Crispy Fish Strips with Fries",
+        "desc": "Golden fish strips served with fries and a tartare house sauce.",
+        "price": 1499,
+        "signature": false,
+        "image": "dishe12.jpg"
+      },
+      {
+        "name": "Peri Peri Chicken Bites",
+        "desc": "German chillies stuffed with chicken and cheese served with cocktail chilli sauce.",
+        "price": 999,
+        "signature": false,
+        "image": "dishe2.jpg"
+      },
+      {
+        "name": "Masala Fries",
+        "desc": "Crispy fries tossed with Mashriq house masala seasoning served with garlic mayonnaise.",
+        "price": 599,
+        "signature": false,
+        "image": "tabdish.jpg"
+      }
+    ]
+  },
+  {
+    "id": "salads",
+    "brand": "mashriq",
+    "category": "Salads",
+    "items": [
+      {
+        "name": "Classic Caesar Salad",
+        "desc": "Crisp lettuce, shaved parmesan, sun dried tomatoes, croutons and Caesar dressing.",
+        "price": 1049,
+        "signature": false,
+        "image": "garden.jpg"
+      },
+      {
+        "name": "Mashriq Summer Salad",
+        "desc": "Seasonal greens and fresh fruits, nuts and blanched quinoa with a light citrus dressing.",
+        "price": 1199,
+        "signature": true,
+        "image": "inter2.jpg"
+      },
+      {
+        "name": "Fattoush Salad",
+        "desc": "Levantine salad with crisp vegetables, toasted khubz and sumac dressing.",
+        "price": 1099,
+        "signature": false,
+        "image": "inter3.jpg"
+      },
+      {
+        "name": "Aegean Greek Salad",
+        "desc": "Tomato, cucumber, olives, feta, lettuce, bell peppers and vinaigrette dressing.",
+        "price": 1049,
+        "signature": false,
+        "image": "inter4.jpg"
+      },
+      {
+        "name": "Fresh Green Salad",
+        "desc": "A simple garden salad with fresh greens and seasonal vegetables.",
+        "price": 399,
+        "signature": false,
+        "image": "inter.jpg"
+      }
+    ]
+  },
+  {
+    "id": "soups",
+    "brand": "mashriq",
+    "category": "Soups",
+    "items": [
+      {
+        "name": "Hot & Sour Soup",
+        "desc": "A classic Indo-Chinese soup with chicken, vegetables and warming spice.",
+        "price": 499,
+        "signature": false,
+        "image": "front2int.jpg"
+      },
+      {
+        "name": "Mashriq 19-B Soup",
+        "desc": "Our house special soup.",
+        "price": 649,
+        "signature": true,
+        "image": "front1int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "grill_kebabs",
+    "brand": "mashriq",
+    "category": "Grill - Kebabs",
+    "items": [
+      {
+        "name": "Chicken Seekh Kebab",
+        "desc": "Minced chicken kebab grilled over flame with house spices.",
+        "price": 1199,
+        "signature": false,
+        "image": "dish23-Photoroom.png"
+      },
+      {
+        "name": "Chicken Reshmi Kebab",
+        "desc": "Soft, creamy chicken kebab with mild spices.",
+        "price": 1399,
+        "signature": false,
+        "image": "dish4e-Photoroom.png"
+      },
+      {
+        "name": "Mutton Seekh Kebab",
+        "desc": "Spiced minced mutton kebab grilled over charcoal.",
+        "price": 1799,
+        "signature": false,
+        "image": "dishe3-Photoroom.png"
+      },
+      {
+        "name": "Turkish Kebab",
+        "desc": "Turkish-style kebab with warm spices and herbs.",
+        "price": 1999,
+        "signature": false,
+        "image": "dishes-Photoroom.png"
+      },
+      {
+        "name": "Beef Seekh Kebab",
+        "desc": "Spiced minced beef kebab grilled over flame.",
+        "price": 1499,
+        "signature": false,
+        "image": "dishe12.jpg"
+      },
+      {
+        "name": "Chicken Shish Taouk",
+        "desc": "Lebanese-style marinated chicken skewers with garlic, lemon and yogurt.",
+        "price": 1599,
+        "signature": true,
+        "image": "dishe2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "grill_boti",
+    "brand": "mashriq",
+    "category": "Grill - Boti",
+    "items": [
+      {
+        "name": "Chicken Malai Boti",
+        "desc": "Creamy, tender chicken boti marinated with mild spices.",
+        "price": 1699,
+        "signature": false,
+        "image": "tabdish.jpg"
+      },
+      {
+        "name": "Anari Chicken Boti",
+        "desc": "Chicken boti marinated with pomegranate, honey and aromatic spices.",
+        "price": 1599,
+        "signature": false,
+        "image": "garden.jpg"
+      },
+      {
+        "name": "Chilli & Lime Chicken Boti",
+        "desc": "Zesty chicken boti with green chilli, lime and fresh herbs.",
+        "price": 1499,
+        "signature": false,
+        "image": "inter2.jpg"
+      },
+      {
+        "name": "Chicken Tikka Leg",
+        "desc": "Classic bone-in chicken leg tikka grilled over flame.",
+        "price": 599,
+        "signature": false,
+        "image": "inter3.jpg"
+      },
+      {
+        "name": "Chicken Tikka Breast",
+        "desc": "Bone-in chicken breast tikka marinated with house spices.",
+        "price": 699,
+        "signature": false,
+        "image": "inter4.jpg"
+      },
+      {
+        "name": "Chicken Qalmi Tikka",
+        "desc": "Juicy chicken drumsticks marinated in yogurt and spices, then grilled.",
+        "price": 1299,
+        "signature": false,
+        "image": "inter.jpg"
+      },
+      {
+        "name": "Chicken Tikka Boti",
+        "desc": "Classic spiced chicken boti grilled over flame.",
+        "price": 1199,
+        "signature": false,
+        "image": "front2int.jpg"
+      },
+      {
+        "name": "Mutton Chaamp",
+        "desc": "Chargrilled mutton chops marinated with house spices.",
+        "price": 2999,
+        "signature": false,
+        "image": "front1int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "signatures",
+    "brand": "mashriq",
+    "category": "Mashriq Signatures",
+    "items": [
+      {
+        "name": "Mashriq Mixed Grill Platter",
+        "desc": "A selection of signature kebabs, boti and tikka, served with fresh salad, sauces, rice and bread.",
+        "price": 4999,
+        "signature": true,
+        "image": "dishes-Photoroom.png"
+      },
+      {
+        "name": "Mashriq Chicken Mandi",
+        "desc": "Slow-cooked spiced chicken over fragrant mandi rice served with sweet pickles, toum sauce and daqoos.",
+        "price": 2299,
+        "signature": true,
+        "image": "dish23-Photoroom.png"
+      },
+      {
+        "name": "Chicken Shawarma Platter",
+        "desc": "Sliced shawarma chicken served with khubz, garlic sauce, pickles and salad.",
+        "price": 1099,
+        "signature": false,
+        "image": "dish4e-Photoroom.png"
+      },
+      {
+        "name": "Chicken Shawarma Wrap",
+        "desc": "Arabic-style chicken shawarma wrapped with garlic sauce, pickles and fresh salad.",
+        "price": 599,
+        "signature": false,
+        "image": "dishe3-Photoroom.png"
+      }
+    ]
+  },
+  {
+    "id": "chicken_karahi",
+    "brand": "mashriq",
+    "category": "Chicken Karahi",
+    "items": [
+      {
+        "name": "Chicken Lahori Karahi",
+        "desc": "A classic tomato-led karahi with bold Lahori flavour.",
+        "price_half": 1399,
+        "price_full": 2499,
+        "price": 2499,
+        "signature": false,
+        "image": "dishe12.jpg"
+      },
+      {
+        "name": "Chicken Black Pepper Karahi",
+        "desc": "A rich karahi finished with cracked black pepper.",
+        "price_half": 1399,
+        "price_full": 2499,
+        "price": 2499,
+        "signature": false,
+        "image": "dishe2.jpg"
+      },
+      {
+        "name": "Chicken White Karahi",
+        "desc": "Creamy white karahi with green chilli and delicate spices.",
+        "price_half": 1599,
+        "price_full": 2699,
+        "price": 2699,
+        "signature": false,
+        "image": "tabdish.jpg"
+      },
+      {
+        "name": "Chicken Achari Karahi",
+        "desc": "Tangy achari-style karahi with pickle spices.",
+        "price_half": 1499,
+        "price_full": 2599,
+        "price": 2599,
+        "signature": false,
+        "image": "garden.jpg"
+      },
+      {
+        "name": "Chicken Chilli & Lime Karahi",
+        "desc": "Bright, zesty karahi with green chilli and lime.",
+        "price_half": 1399,
+        "price_full": 2499,
+        "price": 2499,
+        "signature": false,
+        "image": "inter2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mutton_karahi",
+    "brand": "mashriq",
+    "category": "Mutton Karahi",
+    "items": [
+      {
+        "name": "Mutton Chilli & Lime Karahi",
+        "desc": "Bright, zesty karahi with green chilli and lime.",
+        "price_half": 2299,
+        "price_full": 4299,
+        "price": 4299,
+        "signature": false,
+        "image": "inter3.jpg"
+      },
+      {
+        "name": "Mutton Lahori Karahi",
+        "desc": "A classic tomato-led karahi with bold Lahori flavour.",
+        "price_half": 2299,
+        "price_full": 4299,
+        "price": 4299,
+        "signature": false,
+        "image": "inter4.jpg"
+      },
+      {
+        "name": "Mutton Black Pepper Karahi",
+        "desc": "A rich karahi finished with cracked black pepper.",
+        "price_half": 2299,
+        "price_full": 4299,
+        "price": 4299,
+        "signature": false,
+        "image": "inter.jpg"
+      },
+      {
+        "name": "Mutton White Karahi",
+        "desc": "Creamy white karahi with green chilli and delicate spices.",
+        "price_half": 2499,
+        "price_full": 4499,
+        "price": 4499,
+        "signature": false,
+        "image": "front2int.jpg"
+      },
+      {
+        "name": "Mutton Achari Karahi",
+        "desc": "Tangy achari-style karahi with pickle spices.",
+        "price_half": 2499,
+        "price_full": 4499,
+        "price": 4499,
+        "signature": false,
+        "image": "front1int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "handi",
+    "brand": "mashriq",
+    "category": "Handi",
+    "items": [
+      {
+        "name": "Chicken Handi",
+        "desc": "Creamy chicken handi cooked with traditional spices.",
+        "price": 1499,
+        "signature": false,
+        "image": "dish23-Photoroom.png"
+      },
+      {
+        "name": "Rajasthani Chicken Handi",
+        "desc": "Chicken cooked in a rich Rajasthani style aromatic masala.",
+        "price": 1599,
+        "signature": false,
+        "image": "dish4e-Photoroom.png"
+      },
+      {
+        "name": "Chilli & Lime Chicken Handi",
+        "desc": "A bright, zesty chicken handi with green chilli and lime.",
+        "price": 1499,
+        "signature": false,
+        "image": "dishe3-Photoroom.png"
+      },
+      {
+        "name": "Patiala Chicken Handi",
+        "desc": "A rich chicken handi with achari masala and aromatic spices.",
+        "price": 1599,
+        "signature": false,
+        "image": "dishes-Photoroom.png"
+      },
+      {
+        "name": "Hara Masala Chicken Handi",
+        "desc": "Chicken cooked with green herbs, green chilli and fresh spices.",
+        "price": 1499,
+        "signature": false,
+        "image": "dishe12.jpg"
+      }
+    ]
+  },
+  {
+    "id": "continental",
+    "brand": "mashriq",
+    "category": "Continental Signatures",
+    "items": [
+      {
+        "name": "Chicken Cordon Bleu",
+        "desc": "Crispy chicken breast filled with cheese and mortadella, served with creamy sauce.",
+        "price": 2199,
+        "signature": false,
+        "image": "dishe2.jpg"
+      },
+      {
+        "name": "Chicken Parmigiana",
+        "desc": "Breaded chicken breast topped with tomato sauce and melted cheese.",
+        "price": 1999,
+        "signature": false,
+        "image": "tabdish.jpg"
+      },
+      {
+        "name": "Swiss Polo Chicken",
+        "desc": "Golden fried chicken stuffed with spinach, cheese and nuts, served with creamy mustard sauce.",
+        "price": 1999,
+        "signature": false,
+        "image": "garden.jpg"
+      },
+      {
+        "name": "Grilled Stuffed Chicken",
+        "desc": "Grilled chicken breast stuffed with cheese, bell peppers and herbs.",
+        "price": 1899,
+        "signature": false,
+        "image": "inter2.jpg"
+      },
+      {
+        "name": "Tarragon Chicken Steak",
+        "desc": "Grilled chicken breast served with creamy tarragon sauce and garlic rice.",
+        "price": 1699,
+        "signature": false,
+        "image": "inter3.jpg"
+      },
+      {
+        "name": "Tangier Grilled Chicken",
+        "desc": "Moroccan-inspired grilled chicken with warm spices and citrus served with garlic rice.",
+        "price": 1799,
+        "signature": false,
+        "image": "inter4.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pan_asian",
+    "brand": "mashriq",
+    "category": "Pan Asian Selection",
+    "items": [
+      {
+        "name": "Chicken Cashew Nut",
+        "desc": "Stir-fried chicken with cashew nuts, vegetables and savoury Asian sauce.",
+        "price": 1699,
+        "signature": false,
+        "image": "inter.jpg"
+      },
+      {
+        "name": "Roasted Peanut Chicken",
+        "desc": "Chicken tossed in a rich roasted peanut sauce with vegetables.",
+        "price": 1599,
+        "signature": false,
+        "image": "front2int.jpg"
+      },
+      {
+        "name": "Chicken with Broccoli & Mushrooms",
+        "desc": "Stir-fried chicken with broccoli, mushrooms and garlic sauce.",
+        "price": 1699,
+        "signature": false,
+        "image": "front1int.jpg"
+      },
+      {
+        "name": "Thai Fiery Chicken",
+        "desc": "Spicy Thai-style chicken tossed with chilli, garlic and herbs.",
+        "price": 1599,
+        "signature": false,
+        "image": "dish23-Photoroom.png"
+      },
+      {
+        "name": "Chicken Chilli Dry",
+        "desc": "Classic dry-style chicken with green chilli and onion.",
+        "price": 1599,
+        "signature": false,
+        "image": "dish4e-Photoroom.png"
+      },
+      {
+        "name": "Chicken Chow Mein",
+        "desc": "Stir-fried noodles with chicken and vegetables.",
+        "price": 1199,
+        "signature": false,
+        "image": "dishe3-Photoroom.png"
+      }
+    ]
+  },
+  {
+    "id": "pasta",
+    "brand": "mashriq",
+    "category": "Pasta",
+    "items": [
+      {
+        "name": "Smoked Chicken Tagliatelle",
+        "desc": "Tagliatelle pasta with smoked chicken, spinach and roasted garlic cream.",
+        "price": 1499,
+        "signature": true,
+        "image": "dishes-Photoroom.png"
+      },
+      {
+        "name": "Fusilli Arrabbiata",
+        "desc": "Fusilli pasta in a spicy tomato and garlic sauce.",
+        "price": 1299,
+        "signature": false,
+        "image": "dishe12.jpg"
+      },
+      {
+        "name": "Homestyle Linguine",
+        "desc": "Linguine pasta in a comforting house-style sauce.",
+        "price": 1299,
+        "signature": false,
+        "image": "dishe2.jpg"
+      },
+      {
+        "name": "Parmesan Alfredo Fettuccine",
+        "desc": "Fettuccine pasta in creamy Alfredo sauce topped with fillet of parmesan chicken.",
+        "price": 1499,
+        "signature": false,
+        "image": "tabdish.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pizza",
+    "brand": "mashriq",
+    "category": "Neapolitan & Deep Pan Pizza",
+    "items": [
+      {
+        "name": "Margherita Pizza",
+        "desc": "Tomato sauce, mozzarella and basil. Authentic light, thin-crust pizza.",
+        "price": 1599,
+        "signature": false,
+        "image": "garden.jpg"
+      },
+      {
+        "name": "Pepperoni & Jalapeno Pizza",
+        "desc": "Pepperoni, jalapenos, mozzarella and tomato sauce. Authentic light, thin-crust pizza.",
+        "price": 1999,
+        "signature": false,
+        "image": "inter2.jpg"
+      },
+      {
+        "name": "Smoked Chicken & Spinach Pizza",
+        "desc": "Smoked chicken, spinach, mozzarella and creamy garlic sauce. Authentic light, thin-crust pizza.",
+        "price": 1999,
+        "signature": false,
+        "image": "inter3.jpg"
+      },
+      {
+        "name": "Mashriq Special Pizza",
+        "desc": "House pizza with grilled chicken, beef pepperoni, sun dried tomatoes, fresh basil, cheese and signature sauce.",
+        "price": 2399,
+        "signature": true,
+        "image": "inter4.jpg"
+      },
+      {
+        "name": "Malai Boti Deep Pan Pizza",
+        "desc": "Creamy malai boti, mozzarella and house sauce on deep pan crust.",
+        "price": 1999,
+        "signature": false,
+        "image": "inter.jpg"
+      },
+      {
+        "name": "Chicken Tikka Deep Pan Pizza",
+        "desc": "Chicken tikka, mozzarella, onions, capsicum and house sauce on deep pan crust.",
+        "price": 1899,
+        "signature": false,
+        "image": "front2int.jpg"
+      },
+      {
+        "name": "Supreme Deep Pan Pizza",
+        "desc": "Chicken, vegetables, olives, mozzarella and house sauce on deep pan crust.",
+        "price": 2199,
+        "signature": false,
+        "image": "front1int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "breads",
+    "brand": "mashriq",
+    "category": "Tandoor Breads",
+    "items": [
+      {
+        "name": "Roghni Naan",
+        "desc": "Soft enriched naan finished in the tandoor.",
+        "price": 149,
+        "signature": false,
+        "image": "dish23-Photoroom.png"
+      },
+      {
+        "name": "Garlic Naan",
+        "desc": "Tandoori naan brushed with garlic butter.",
+        "price": 199,
+        "signature": false,
+        "image": "dish4e-Photoroom.png"
+      },
+      {
+        "name": "Cheese Naan",
+        "desc": "Naan filled with melted cheese.",
+        "price": 649,
+        "signature": false,
+        "image": "dishe3-Photoroom.png"
+      },
+      {
+        "name": "Tandoori Paratha",
+        "desc": "Layered paratha baked in the tandoor.",
+        "price": 199,
+        "signature": false,
+        "image": "dishes-Photoroom.png"
+      },
+      {
+        "name": "Tandoori Roti",
+        "desc": "Classic tandoor-baked roti.",
+        "price": 99,
+        "signature": false,
+        "image": "dishe12.jpg"
+      },
+      {
+        "name": "Khubz",
+        "desc": "Arabic-style flatbread.",
+        "price": 99,
+        "signature": false,
+        "image": "dishe2.jpg"
+      },
+      {
+        "name": "Khameeri Roti",
+        "desc": "Soft fermented roti baked in the tandoor.",
+        "price": 120,
+        "signature": false,
+        "image": "tabdish.jpg"
+      }
+    ]
+  },
+  {
+    "id": "sides",
+    "brand": "mashriq",
+    "category": "Sides & Sauces",
+    "items": [
+      {
+        "name": "Daqoos",
+        "desc": "Arabic tomato chilli dip.",
+        "price": 299,
+        "signature": false,
+        "image": "garden.jpg"
+      },
+      {
+        "name": "Mint Chutney",
+        "desc": "Fresh mint and coriander chutney.",
+        "price": 199,
+        "signature": false,
+        "image": "inter2.jpg"
+      },
+      {
+        "name": "Zeera Raita",
+        "desc": "Yogurt raita with roasted cumin.",
+        "price": 199,
+        "signature": false,
+        "image": "inter3.jpg"
+      },
+      {
+        "name": "Toum Sauce",
+        "desc": "Lebanese garlic sauce.",
+        "price": 250,
+        "signature": false,
+        "image": "inter4.jpg"
+      },
+      {
+        "name": "Sweet Chilli Sauce",
+        "desc": "Sweet and mildly spicy chilli sauce.",
+        "price": 199,
+        "signature": false,
+        "image": "inter.jpg"
+      },
+      {
+        "name": "Arabic Rice",
+        "desc": "Fragrant rice prepared with subtle Arabian spices.",
+        "price": 249,
+        "signature": false,
+        "image": "front2int.jpg"
+      },
+      {
+        "name": "Fries",
+        "desc": "Crispy golden fries.",
+        "price": 299,
+        "signature": false,
+        "image": "front1int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "creme_espresso",
+    "brand": "creme",
+    "category": "Signature Coffee",
+    "items": [
+      {
+        "name": "Espresso",
+        "desc": "A concentrated single shot with a bold aroma and rich coffee finish.",
+        "price": 499,
+        "signature": false,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Americano",
+        "desc": "Espresso topped with hot water for a smooth, lighter coffee experience.",
+        "price": 549,
+        "signature": false,
+        "image": "creme int.jpg"
+      },
+      {
+        "name": "Cappuccino",
+        "desc": "Espresso blended with steamed milk and a classic layer of airy foam.",
+        "price": 699,
+        "signature": false,
+        "image": "creme2 int.jpg"
+      },
+      {
+        "name": "Flat White",
+        "desc": "Silky steamed milk poured over espresso for a smooth, velvety cup.",
+        "price": 749,
+        "signature": false,
+        "image": "creme3 int.jpg"
+      },
+      {
+        "name": "Cafe Latte",
+        "desc": "Espresso softened with steamed milk for a creamy everyday coffee.",
+        "price": 749,
+        "signature": false,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Spanish Latte",
+        "desc": "Espresso, milk and condensed sweetness for a rich signature taste.",
+        "price": 899,
+        "signature": true,
+        "image": "creme int.jpg"
+      },
+      {
+        "name": "Vanilla Latte",
+        "desc": "Espresso and steamed milk finished with smooth vanilla flavour.",
+        "price": 849,
+        "signature": false,
+        "image": "creme2 int.jpg"
+      },
+      {
+        "name": "Caramel Latte",
+        "desc": "Creamy latte with caramel sweetness and a balanced espresso base.",
+        "price": 849,
+        "signature": false,
+        "image": "creme3 int.jpg"
+      },
+      {
+        "name": "Hazelnut Latte",
+        "desc": "Espresso latte with warm hazelnut notes and a smooth finish.",
+        "price": 849,
+        "signature": false,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Mocha",
+        "desc": "Espresso, milk and chocolate blended into a rich cafe classic.",
+        "price": 899,
+        "signature": false,
+        "image": "creme int.jpg"
+      },
+      {
+        "name": "Irish Latte",
+        "desc": "Espresso latte with Irish creme flavour and a soft creamy finish.",
+        "price": 849,
+        "signature": false,
+        "image": "creme2 int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "creme_signatures",
+    "brand": "creme",
+    "category": "Cr\u00e9me Signatures",
+    "items": [
+      {
+        "name": "Cr\u00e9me Gold Latte",
+        "desc": "Espresso, condensed milk, caramel and sea salt. Indulgent signature blend.",
+        "price": 999,
+        "signature": true,
+        "image": "creme3 int.jpg"
+      },
+      {
+        "name": "Lotus Cloud Latte",
+        "desc": "Lotus cream, espresso and signature cloud foam. Photogenic and rich.",
+        "price": 1099,
+        "signature": true,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Pistachio Cloud Latte",
+        "desc": "Pistachio cream with silky espresso and a smooth finish.",
+        "price": 1149,
+        "signature": true,
+        "image": "creme int.jpg"
+      },
+      {
+        "name": "Irish Velvet Latte",
+        "desc": "Irish cr\u00e8me, hazelnut and espresso in a velvet finish.",
+        "price": 999,
+        "signature": true,
+        "image": "creme2 int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "creme_iced",
+    "brand": "creme",
+    "category": "Iced Coffee & Frapp\u00e9s",
+    "items": [
+      {
+        "name": "Iced Spanish Latte",
+        "desc": "Cold espresso, milk and condensed sweetness served chilled over ice.",
+        "price": 949,
+        "signature": true,
+        "image": "creme3 int.jpg"
+      },
+      {
+        "name": "Iced Caramel Latte",
+        "desc": "Chilled espresso latte with caramel flavour and a creamy finish.",
+        "price": 899,
+        "signature": false,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Iced Hazelnut Latte",
+        "desc": "Cold latte with hazelnut notes and a smooth espresso base.",
+        "price": 899,
+        "signature": false,
+        "image": "creme int.jpg"
+      },
+      {
+        "name": "Iced Mocha",
+        "desc": "Chilled espresso, milk and chocolate for a refreshing mocha taste.",
+        "price": 949,
+        "signature": false,
+        "image": "creme2 int.jpg"
+      },
+      {
+        "name": "Chocolate Frappe",
+        "desc": "Blended chocolate drink with a thick, creamy and chilled texture.",
+        "price": 999,
+        "signature": false,
+        "image": "creme3 int.jpg"
+      },
+      {
+        "name": "Caramel Frappe",
+        "desc": "Ice-blended caramel frappe with a rich dessert-style finish.",
+        "price": 999,
+        "signature": false,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Mocha Frappe",
+        "desc": "Coffee and chocolate blended with ice for a creamy cold treat.",
+        "price": 999,
+        "signature": false,
+        "image": "creme int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "creme_coolers",
+    "brand": "creme",
+    "category": "Refreshers & Coolers",
+    "items": [
+      {
+        "name": "Peach Iced Tea",
+        "desc": "Chilled tea infused with peach flavour for a light fruity sip.",
+        "price": 799,
+        "signature": true,
+        "image": "creme2 int.jpg"
+      },
+      {
+        "name": "Raspberry Iced Tea",
+        "desc": "Refreshing iced tea with raspberry flavour and a crisp finish.",
+        "price": 799,
+        "signature": false,
+        "image": "creme3 int.jpg"
+      },
+      {
+        "name": "Green Apple Cooler",
+        "desc": "Green apple cooler with a tangy, chilled and refreshing taste.",
+        "price": 799,
+        "signature": false,
+        "image": "creme.jpg"
+      },
+      {
+        "name": "Blue Lagoon Refresher",
+        "desc": "A bright citrus-blue cooler with a crisp, sparkling finish.",
+        "price": 899,
+        "signature": true,
+        "image": "creme int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "creme_affogatos",
+    "brand": "creme",
+    "category": "Affogatos",
+    "items": [
+      {
+        "name": "Classic Affogato",
+        "desc": "Vanilla ice cream topped with hot espresso for a simple Italian classic.",
+        "price": 899,
+        "signature": true,
+        "image": "creme2 int.jpg"
+      },
+      {
+        "name": "Lotus Affogato",
+        "desc": "Vanilla ice cream, hot espresso and lotus flavour in a dessert cup.",
+        "price": 999,
+        "signature": true,
+        "image": "creme3 int.jpg"
+      }
+    ]
+  },
+  {
+    "id": "creme_shakes",
+    "brand": "creme",
+    "category": "Signature Shakes",
+    "items": [
+      {
+        "name": "Lotus Royale Shake",
+        "desc": "A thick lotus-based shake with creamy texture and biscuit flavour.",
+        "price": 1199,
+        "signature": true,
+        "image": "shake-Photoroom.png"
+      },
+      {
+        "name": "Cookies & Cream Shake",
+        "desc": "Creamy shake blended with cookies for a rich crunchy-smooth taste.",
+        "price": 1149,
+        "signature": true,
+        "image": "shake1-Photoroom.png"
+      },
+      {
+        "name": "Chocolate Shake",
+        "desc": "Classic thick chocolate shake with a smooth and indulgent finish.",
+        "price": 999,
+        "signature": false,
+        "image": "shake2-Photoroom.png"
+      }
+    ]
+  }
+]
